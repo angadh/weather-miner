@@ -5,5 +5,5 @@ from markupsafe import escape
 app = Flask(__name__)
 
 @app.route("/")
-def hello_world():
-    return "<p>Hello, World!</p>"
+def weather_miner():
+    return "<p>A machine learning application to mine weather patterns in history!</p>"
