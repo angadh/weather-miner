@@ -2,3 +2,11 @@ tensorflow==2.18.0
 torch==2.4.1
 torchvision==0.19.1
 Flask==3.1.0
+ipython==8.31.0
+pylint==3.3.4
+black==24.10.0
+pep8==1.7.1
+pandas==2.2.3
+ucimlrepo==0.0.7
+netCDF4==1.7.2
+notebook==7.4.2
